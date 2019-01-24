@@ -1,6 +1,6 @@
 #include <Servo.h>
 //I'm not going to make changes in the code, but just the file
-//HAHA another
+//HAHA not
 Servo name_servo;
 
 void setup() 
